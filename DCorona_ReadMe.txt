@@ -1,3 +1,0 @@
-Daniel Corona
-
-READ ME
