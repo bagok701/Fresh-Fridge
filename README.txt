@@ -10,7 +10,7 @@ Fresh Fridge is licensed under the GNU General Public License. For more informat
 
 ----------------------------------------------------------------------------------
 
-Features:
+Goals:
 
 -Create a list of items in your refrigerator with their respective expiration dates
 -Receive push notifications about when certain foods are about to expire 
@@ -18,7 +18,7 @@ Features:
 
 Stretch Goals:
 
--Availability on multiple platforms **Currently only available on Android**
+-Availability on multiple platforms **Will only be available for Android**
 -Recipe database that shows what food can be made with the items that you have
 -Ability to scan barcodes for expiration date and food information 
 -"Tips" page that gives the user suggestions on how to make food last longer and seasonal  
