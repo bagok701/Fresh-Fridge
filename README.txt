@@ -5,8 +5,7 @@ efficient way to keep track of groceries and their expiration dates.
 
 ----------------------------------------------------------------------------------
 
-Fresh Fridge is licensed under the GNU General Public License. For more information, read  
-the license file in the Fresh Fridge repository.
+Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
 
 
 ----------------------------------------------------------------------------------
