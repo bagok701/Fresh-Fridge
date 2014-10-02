@@ -58,3 +58,12 @@ Feature Ideas:
 
 
 
+----------------------------------------------------------------------------------
+
+Contributors:
+
+Danny Corona
+Jennifer Re
+Sabrina Chapman
+
+
