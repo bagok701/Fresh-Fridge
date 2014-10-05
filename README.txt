@@ -39,7 +39,7 @@ Requirements:
 Development Status: 
 
 -We are currently setting up our repository and documentation guidelines. We are hoping to start receiving contributions very soon. 
-
+-Visit our website for updates: http://freshfridgeoss.wix.com/fresh-fridge
 
 ----------------------------------------------------------------------------------
 
