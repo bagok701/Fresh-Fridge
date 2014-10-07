@@ -5,9 +5,9 @@ Fresh Fridge is an open source project that strives to create a mobile app that 
 To create, as a community, a mobile application that will provide an easier and more efficient way to keep track of groceries and their expiration dates. 
 
 #Goals
--Create a list of items in your refrigerator with their respective expiration dates
--Receive push notifications about when certain foods are about to expire 
--Ability to create grocery lists from within the application 
+1. Create a list of items in your refrigerator with their respective expiration dates
+2. Receive push notifications about when certain foods are about to expire 
+3. Ability to create grocery lists from within the application 
 
 #Stretch Goals
 -Availability on multiple platforms **Will only be available for Android at first**
@@ -33,16 +33,16 @@ foods
 #Ways You Can Contribute 
 We would love any help you can give us on the application. There is always some way you can contribute!
 
--Front-end Developers:
-  -Using Ionic's front end software, you can help us with our UI and icon design. Help us to make our application fun and easy to use. 
--Back-end Developers:
-  -Using Eclipse/Java/SQL, you can help us with data entry, database setup, activity flow and feature additions.  
--Food Researchers:
-  -Research is a large part of our app. We need help with fact checking such as typical food expiration, seasonal foods, and recipes.
--Bug Checkers:
-  -Test out the app or take a look at ways the code can be improved. Then, report suggestions or bugs on the issue page.
--Feature Ideas:
-  -Let us know what we can do to improve are application, or if you have an idea you would like to improve upon, then fork our repository, create a branch, and create a pull request with your changes
+1. Front-end Developers:
+  1. Using Ionic's front end software, you can help us with our UI and icon design. Help us   to make our application fun and easy to use. 
+2. Back-end Developers:
+  1. Using Eclipse/Java/SQL, you can help us with data entry, database setup, activity flow   and feature additions.  
+3. Food Researchers:
+  1. Research is a large part of our app. We need help with fact checking such as typical     food expiration, seasonal foods, and recipes.
+4. Bug Checkers:
+  1. Test out the app or take a look at ways the code can be improved. Then, report   suggestions or bugs on the issue page.
+5. Feature Ideas:
+  1. Let us know what we can do to improve are application, or if you have an idea you   would like to improve upon, then fork our repository, create a branch, and create a pull   request with your changes
 
 #License
 Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
