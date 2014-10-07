@@ -48,10 +48,10 @@ We would love any help you can give us on the application. There is always some 
 Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
 
 #Contributors
-*Jennifer Re*
+- **Jennifer Re**
   - https://github.com/jenre6
-*Danny Corona*
+- **Danny Corona**
   - https://github.com/coron108
-*Sabrina Chapman*
+- **Sabrina Chapman**
   - https://github.com/chapm151
 
