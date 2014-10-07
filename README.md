@@ -12,7 +12,7 @@ To create, as a community, a mobile application that will provide an easier and 
 - Ability to create grocery lists from within the application 
 
 #Stretch Goals
-- Availability on multiple platforms **Will only be available for Android at first**
+- Availability on multiple platforms (Will only be available for Android at first)
 - Recipe database that shows what food can be made with the items that you have
 - Ability to scan barcodes for expiration date and food information 
 - "Tips" page that gives the user suggestions on how to make food last longer and seasonal  
