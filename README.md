@@ -3,9 +3,9 @@
 #What is Fresh Fridge?
 Fresh Fridge is an open source project that strives to create a mobile app that will provide an easier and more efficient way to keep track of groceries and their expiration dates. 
 
-![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/MenuScreen.jpg)
+![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/scaled%20images/MenuScreen.jpg)
 
-![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/ListOfAllFoods.jpg)
+![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/scaled%20images/ListOfAllFoods.jpg)
 
 #Mission Statement
 To create, as a community, a mobile application that will provide an easier and more efficient way to keep track of groceries and their expiration dates. 
