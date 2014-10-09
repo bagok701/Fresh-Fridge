@@ -28,9 +28,9 @@ foods
 #Development Status
 - We are currently setting up our repository and documentation guidelines. We are hoping to start receiving contributions very soon. 
 - Follow us for updates
-- Website: http://freshfridgeoss.wix.com/fresh-fridge
-- Facebook: https://www.facebook.com/freshfridgeOSS
-- Twitter: https://twitter.com/FreshFridgeOSS
+  - Website: http://freshfridgeoss.wix.com/fresh-fridge
+  - Facebook: https://www.facebook.com/freshfridgeOSS
+  - Twitter: https://twitter.com/FreshFridgeOSS
 
 #Ways You Can Contribute 
 We would love any help you can give us on the application. There is always some way you can contribute!
@@ -45,19 +45,6 @@ We would love any help you can give us on the application. There is always some 
   - Test out the app or take a look at ways the code can be improved. Then, report   suggestions or bugs on the issue page.
 - Feature Ideas:
   - Let us know what we can do to improve are application, or if you have an idea you   would like to improve upon, then fork our repository, create a branch, and create a pull   request   with your changes
-
-#How to Set Up Your Work Environment
-1. First, install eclipse for android development from here https://developer.android.com/sdk/index.html?hl=i
-2. Follow the steps here http://ionicframework.com/getting-started/ to install Ionic
-3. Fork the Fresh Fridge repo
-4. Clone the repo to your remote repository
-5. Create a branch
-6. Submit a pull request with a description of your changes 
-
-#Documentation
-- When creating a branch with your changes, name the branch after the issue number
-- Comment each section of your code in order to easily identify it
-- Please be courteous when posting in forums and chat rooms
 
 #License
 Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
