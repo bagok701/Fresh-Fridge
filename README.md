@@ -50,6 +50,20 @@ We would love any help you can give us on the application. There is always some 
 - Feature Ideas:
   - Let us know what we can do to improve are application, or if you have an idea you   would like to improve upon, then fork our repository, create a branch, and create a pull   request   with your changes
 
+#Step-by-Step Setup
+1. Install eclipse at https://developer.android.com/sdk/index.html?hl=i
+2. Follow instructions here http://ionicframework.com/getting-started/ to install ionic
+3. Fork the Fresh Fridge repo
+4. Clone the Fresh Fridge repo to your remote repository
+5. Create a branch
+6. Make a pull request with changes
+
+#Documentation
+- Comment on each section of code to make sure it's clear
+- Title your commits after the issue number
+- Please be courteous when posting in forums or chat rooms
+
+
 #License
 Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
 
