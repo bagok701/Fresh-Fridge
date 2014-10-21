@@ -1,7 +1,11 @@
-![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/PNG/Fresh-Fridge_Logo.png)
+![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/icons/Fresh-Fridge_Logo.png)
 
 #What is Fresh Fridge?
 Fresh Fridge is an open source project that strives to create a mobile app that will provide an easier and more efficient way to keep track of groceries and their expiration dates. 
+
+![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/scaled%20images/MenuScreen.jpg)
+
+![alt tag](https://raw.githubusercontent.com/coron108/Fresh-Fridge/master/images/appScreenCaps/scaled%20images/ListOfAllFoods.jpg)
 
 #Mission Statement
 To create, as a community, a mobile application that will provide an easier and more efficient way to keep track of groceries and their expiration dates. 
@@ -45,6 +49,20 @@ We would love any help you can give us on the application. There is always some 
   - Test out the app or take a look at ways the code can be improved. Then, report   suggestions or bugs on the issue page.
 - Feature Ideas:
   - Let us know what we can do to improve are application, or if you have an idea you   would like to improve upon, then fork our repository, create a branch, and create a pull   request   with your changes
+
+#Step-by-Step Setup
+1. Install eclipse at https://developer.android.com/sdk/index.html?hl=i
+2. Follow instructions here http://ionicframework.com/getting-started/ to install ionic
+3. Fork the Fresh Fridge repo
+4. Clone the Fresh Fridge repo to your remote repository
+5. Create a branch
+6. Make a pull request with changes
+
+#Documentation
+- Comment on each section of code to make sure it's clear
+- Title your commits after the issue number
+- Please be courteous when posting in forums or chat rooms
+
 
 #License
 Fresh Fridge is licensed under the GNU General Public License. For more information, read the license file in the Fresh Fridge repository.
