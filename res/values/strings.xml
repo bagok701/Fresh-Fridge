@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FreshFridge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fridge">Fridge</string>
+    <string name="title_activity_grocery_list">GroceryList</string>
+    <string name="title_activity_expiration_dates">ExpirationDates</string>
+    <string name="title_activity_recipes">Recipes</string>
+    <string name="title_activity_food_tips">FoodTips</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_exit">Exit</string>
+    <string name="title_activity_fridge_options">FridgeOptions</string>
+    <string name="title_activity_add_item">AddItem</string>
+    <string name="category_spinner">Select Category</string>
+
+    <string-array name="categories">
+        <item>Vegetable</item>
+        <item>Fruit</item>
+        <item>Dairy</item>
+        <item>Meat</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_fridge_list">FridgeList</string>
+
+</resources>

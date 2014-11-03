@@ -1,5 +1,6 @@
 package com.example.freshfridge;
 
+<<<<<<< HEAD
 import com.example.freshfridge.ListAdapter;
 import com.example.freshfridge.Product;
 
@@ -7,6 +8,8 @@ import java.util.ArrayList;
 
 
 
+=======
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
@@ -16,6 +19,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.widget.ListView;
 import android.os.Build;
 
@@ -23,11 +27,18 @@ public class GroceryList extends Activity {
 	ArrayList<Product> products = new ArrayList<Product>();
     ListAdapter boxAdapter;
     
+=======
+import android.os.Build;
+
+public class GroceryList extends Activity {
+
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_grocery_list);
 
+<<<<<<< HEAD
 		fillData();
         boxAdapter = new ListAdapter(this, products);
 
@@ -45,6 +56,9 @@ public class GroceryList extends Activity {
     	  products.add(new Product("Eggs", "Poultry", "10/29/2014", "12/10/2014", false));
     	  products.add(new Product("Ham", "Meat", "12/02/2014", "12/14/2014", false));
       }
+=======
+	}
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {

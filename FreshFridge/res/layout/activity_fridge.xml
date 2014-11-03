@@ -7,24 +7,41 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+<<<<<<< HEAD
     tools:context=".Fridge" >
+=======
+    tools:context="com.example.freshfridge.MainScreen$PlaceholderFragment" >
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+<<<<<<< HEAD
         android:weightSum="3" >"
+=======
+        android:weightSum="3" >
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
+<<<<<<< HEAD
             android:weightSum="6"
             android:layout_weight="1" >
 
             <ImageButton
                 android:id="@+id/imageButton1"
                 android:layout_width="wrap_content"
+=======
+            android:weightSum="4"
+            android:layout_weight="0" >
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="match_parent"
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5sp"
                 android:layout_weight="1"
@@ -32,7 +49,11 @@
 
             <ImageButton
                 android:id="@+id/imageButton2"
+<<<<<<< HEAD
                 android:layout_width="wrap_content"
+=======
+                android:layout_width="match_parent"
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5sp"
                 android:layout_weight="1"
@@ -40,7 +61,11 @@
 
             <ImageButton
                 android:id="@+id/imageButton3"
+<<<<<<< HEAD
                 android:layout_width="wrap_content"
+=======
+                android:layout_width="match_parent"
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5sp"
                 android:layout_weight="1"
@@ -48,7 +73,11 @@
 
             <ImageButton
                 android:id="@+id/imageButton4"
+<<<<<<< HEAD
                 android:layout_width="wrap_content"
+=======
+                android:layout_width="match_parent"
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="5sp"
                 android:layout_marginTop="5sp"
@@ -71,7 +100,11 @@
                 <ImageButton
                     android:id="@+id/imageButton6"
                     android:layout_width="wrap_content"
+<<<<<<< HEAD
                     android:layout_height="match_parent"
+=======
+                    android:layout_height="wrap_content"
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
                     android:layout_weight="1"
                     android:background="@drawable/otherfridgebtn" />
             </LinearLayout>
@@ -80,7 +113,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+<<<<<<< HEAD
                 android:weightSum="1" >
+=======
+                android:weightSum="3" >
+
+                <ImageButton
+                    android:id="@+id/imageButton7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/settingbasebtn" />
+>>>>>>> 3dffb742c0cdff1b017f09f30deb4605da88cb46
 
                 <ImageButton
                     android:id="@+id/imageButton8"
