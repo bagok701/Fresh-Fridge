@@ -1,4 +1,6 @@
-package com.example.freshfridge;
+package com.simplebd.info;
+
+import com.example.freshfridge.R;
 
 import android.app.Activity;
 import android.app.ActionBar;
@@ -11,12 +13,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
-public class Fridge extends Activity {
+public class GroceryList extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_fridge);
+		setContentView(R.layout.activity_grocery_list);
 
 	}
 
@@ -24,7 +26,7 @@ public class Fridge extends Activity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.fridge, menu);
+		getMenuInflater().inflate(R.menu.grocery_list, menu);
 		return true;
 	}
 

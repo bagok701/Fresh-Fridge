@@ -1,4 +1,6 @@
-package com.example.freshfridge;
+package com.simplebd.info;
+
+import com.example.freshfridge.R;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
